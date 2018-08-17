@@ -1,4 +1,4 @@
-# bookmarks-wordpress-blogs
+# Bookmarks WordPress Blogs
 Popular Blog Website for WordPress
 
 
